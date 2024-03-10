@@ -1,0 +1,1 @@
+console.log("Bismillah Er Rahman Nir Raheem!");
